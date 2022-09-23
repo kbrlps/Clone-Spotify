@@ -1,6 +1,6 @@
 # Clone da página inicial do Spotify
 
-![preview](./.github/Spotify.png)
+![preview](./.Github/Spotify.png)
 
 [🔗 Clique aqui para acessar]()
 
