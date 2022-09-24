@@ -2,7 +2,7 @@
 
 ![preview](./.Github/Spotify.png)
 
-[🔗 Clique aqui para acessar]()
+[🔗 Clique aqui para acessar](https://kbrlps.github.io/Clone-Spotify/)
 
 ## 🛠 Tecnologias 
 
